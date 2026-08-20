@@ -1,1 +1,2 @@
-# kaggle-digit-recognizer-
+# kaggle-digit-recognizer
+https://www.kaggle.com/competitions/digit-recognizer/data?select=train.csv
