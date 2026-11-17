@@ -45,4 +45,4 @@ python src/train.py
 ```
 
 ### 💭 Future Improvements
-- none atm
+None
